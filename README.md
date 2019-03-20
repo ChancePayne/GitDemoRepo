@@ -1,2 +1,2 @@
 # GitDemoRepo
-build by Chance Payne
+built by Chance Payne
